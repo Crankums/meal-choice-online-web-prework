@@ -1,3 +1,3 @@
-def meal_choice(name)
+def meal_choice(name = "meat")
 name
 end
